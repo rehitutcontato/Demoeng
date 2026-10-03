@@ -1,0 +1,6 @@
+{
+  "name": "Veros Engenharia - Construções de Alto Padrão",
+  "description": "Master Landing Page executiva de alta conversão para Veros Engenharia & Construções de Alto Padrão. Construção residencial no regime turnkey em condomínios de luxo na RMC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
